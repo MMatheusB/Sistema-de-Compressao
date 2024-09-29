@@ -3,6 +3,7 @@
 Desafio de sistema de compressão. Resolver o sistema com uma rede neural para prever eventos futuros, usando o método da PIRNN.
 
 Equações:
+
 $ \frac{d\dot{m}}{dt} = \frac{A_1}{L_C}(\phi (N(t), \dot{m})P_1 - P_P(t)) $
 
 $ \frac{d P_P}{dt} = \frac{C_1^2}{\nu _P}(\dot{m}(t) - \alpha (t) K_\nu \sqrt{P_P - P_{out}}) $
